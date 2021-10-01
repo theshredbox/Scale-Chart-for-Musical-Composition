@@ -160,7 +160,7 @@ if __name__ == "__main__":
     chartgui.configure(bg= 'tan')
     ourx = 40
     oury = 20
-    chartgui.iconbitmap(r'C:\Users\Aryan\Downloads\IMG_20200108_094316_201.jpg')
+    chartgui.iconbitmap(r'*\.jpg')  #UPLOAD AN IMAGE FOR THE WINDOW LOGO OF YOUR CHOICE
 
     # For our fret (column) labels on top and bottom
     for i in range(0, 25):
