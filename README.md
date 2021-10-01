@@ -10,7 +10,8 @@
 * The project being a GUI based application is made using Tkinter, a Python binding to the GUI toolkit. We started off from scratch and saw how we can use lists, dictionaries to build a tool that can help us play the guitar. We all know Music theory is a complex subject made up of a lot of components. For the purposes of this post, we will be simplifying things here quite a bit.
 * Here we will treat the fretboard as a UX Component and treat it as an image.  Based on the design guidelines and the test variations, we introduce potential flaws in direct correlation to the design input. These flawed design mockups are manifested as images. Proper labeling of these images ensure proper organization of test data. Once we have a minimal set of images in our arsenal, we are ready to train our model.
 
-![module workflow](https://user-images.githubusercontent.com/36481036/135592960-c1c89b86-1483-4b46-8c0e-bf10691d3a21.png)
+![workflow](https://user-images.githubusercontent.com/36481036/135594695-dcba5d00-fc95-4ae8-abec-7d8d28ed54d5.png)
+
 
 
 ## :white_check_mark: **HOW TO USE ?**
