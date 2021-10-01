@@ -14,7 +14,7 @@
 
 
 ## :white_check_mark: **HOW TO USE ?**
-Import the code and in the command line type <code> python scalecharts.py> </code>
+Import the code and in the command line type <code> python scalechartcode.py> </code>
 
 ## :round_pushpin: **CODE OUTPUTS**
 <p align="center">
